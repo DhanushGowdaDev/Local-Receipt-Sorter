@@ -1,0 +1,6 @@
+ollama>=0.4
+pydantic>=2
+pymupdf
+pandas
+openpyxl
+streamlit
